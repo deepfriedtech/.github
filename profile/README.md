@@ -1,0 +1,1 @@
+![deepfriedtech](logo-plain.svg)
